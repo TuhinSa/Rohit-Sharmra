@@ -1,0 +1,31 @@
+body {
+text-align: center;
+	background-color: dodgerblue;
+	
+	}
+.img {
+width:150;
+height:150;
+	
+}
+p {
+	color:purple;
+}
+.ul {
+list-style: none;
+	position:absolute;
+	top:10px;
+	left:20px;
+	z-index:10;	
+	cursor: pointer
+}
+.li {
+	float:left;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:9px;
+	padding-left:9px;
+	font-family:fantasy;
+	font-size: 15px;
+	
+}
